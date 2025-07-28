@@ -1,4 +1,4 @@
-![AAIDC-wk11-l2-troubleshooting-failures-in-agentic-ai.jpeg](AAIDC-wk11-l2-troubleshooting-failures-in-agentic-ai.jpeg)
+![AAIDC-wk11-l1d-troubleshooting-failures-in-agentic-ai.jpeg](AAIDC-wk11-l1d-troubleshooting-failures-in-agentic-ai.jpeg)
 
 --DIVIDER--
 
