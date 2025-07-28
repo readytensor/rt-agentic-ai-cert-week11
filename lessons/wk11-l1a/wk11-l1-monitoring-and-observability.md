@@ -1,4 +1,4 @@
-![AAIDC-wk11-l1a-monitoring-and-observability-v2.jpeg](AAIDC-wk11-l1a-monitoring-and-observability-v2.jpeg)
+![AAIDC-wk11-l1-monitoring-and-observability-101.jpeg](AAIDC-wk11-l1-monitoring-and-observability-101.jpeg)
 
 --DIVIDER--
 
