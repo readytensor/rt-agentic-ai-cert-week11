@@ -7,7 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Agentic System Documentation Guide](https://app.readytensor.ai/publications/Al9E4GsrKoKC)
-[➡️ Next - Monitoring & Observability](https://app.readytensor.ai/publications/3p414r28A7UU)
+[➡️ Next - Monitoring & Observability 101](https://app.readytensor.ai/publications/3p414r28A7UU)
 
 ---
 
@@ -61,6 +61,6 @@ Let’s get started!
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Agentic System Documentation Guide](https://app.readytensor.ai/publications/Al9E4GsrKoKC)
-[➡️ Next - Monitoring & Observability](https://app.readytensor.ai/publications/3p414r28A7UU)
+[➡️ Next - Monitoring & Observability 101](https://app.readytensor.ai/publications/3p414r28A7UU)
 
 ---

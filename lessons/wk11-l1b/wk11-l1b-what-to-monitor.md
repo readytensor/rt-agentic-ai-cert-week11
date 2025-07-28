@@ -6,7 +6,7 @@
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Monitoring & Observability Foundations](https://app.readytensor.ai/publications/3p414r28A7UU)
+[⬅️ Previous - Monitoring & Observability 101](https://app.readytensor.ai/publications/3p414r28A7UU)
 [➡️ Next - Monitoring and Observability Tools](https://app.readytensor.ai/publications/z0GUbKAFMf9l)
 
 ---
@@ -352,7 +352,7 @@ Next up: an overview of the best tools for monitoring and observability in agent
 
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
-[⬅️ Previous - Monitoring & Observability Foundations](https://app.readytensor.ai/publications/3p414r28A7UU)
+[⬅️ Previous - Monitoring & Observability 101](https://app.readytensor.ai/publications/3p414r28A7UU)
 [➡️ Next - Monitoring and Observability Tools](https://app.readytensor.ai/publications/z0GUbKAFMf9l)
 
 ---
