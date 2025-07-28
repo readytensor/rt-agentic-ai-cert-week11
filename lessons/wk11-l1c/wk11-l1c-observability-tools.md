@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - What to Monitor & Observe](https://app.readytensor.ai/publications/McNh5g2RBFKq)
+[➡️ Next - Troubleshooting Failures in Agentic AI](https://app.readytensor.ai/publications/6qmc6P1CWNGY)
 
 ---
 
@@ -188,5 +189,6 @@ That’s what separates reliable systems from fragile ones.
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - What to Monitor & Observe](https://app.readytensor.ai/publications/McNh5g2RBFKq)
+[➡️ Next - Troubleshooting Failures in Agentic AI](https://app.readytensor.ai/publications/6qmc6P1CWNGY)
 
 ---
