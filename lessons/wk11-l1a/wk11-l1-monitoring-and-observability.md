@@ -220,7 +220,7 @@ In the next lesson, we’ll cover:
 
 > You’ll learn how to turn a vague complaint like “the bot is acting weird” into a fast, focused investigation.
 
-Stay tuned — the real work begins in Lesson 2.
+Stay tuned — the real work begins in the next lesson.
 
 --DIVIDER--
 
