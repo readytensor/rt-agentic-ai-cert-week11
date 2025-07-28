@@ -18,25 +18,26 @@ This is a work-in-progress repository. We are actively adding code examples and 
 
 ## Lessons in This Repository
 
-### 1. Monitoring and Observability for Agentic AI
+- **Lesson 1a: Monitoring and Observability 101**
+  Understand the difference between monitoring and observation - and building blocks such as metrics, logs, and traces.
 
-Learn how to track and interpret the right signals — from tool usage to bad routing to hallucinations — using logging, tracing, and visualization tools like LangSmith. Critical for keeping your agents healthy in production.
+- **Lesson 1b: What to Monitor**
+  Learn how to track failures like hallucinations, bad routing, and tool misuse. We’ll map common failure modes and their causes to the right metrics and traces.
 
-### 2. Troubleshooting Agent Failures and Non-Deterministic Behavior
+- **Lesson 1c: Choosing Monitoring Tools**
+  Compare popular observability tools for agentic systems, including LangSmith, Langfuse, OpenTelemetry, and others. You’ll learn what to look for and how to choose based on your stack and scale.
 
-Explore practical debugging strategies for agentic systems that fail in inconsistent or unpredictable ways. Use traces and logs to detect issues like refusal loops, unexpected outputs, and flaky behavior.
+- **Lesson 1d: Diagnosing Root Causes**
+  Go a level deeper to understand how to debug agentic AI systems when they misbehave.
 
-### 3. Data Privacy and Compliance for AI Systems
+* **Lesson 2**: Data Privacy and Compliance
+  Learn how to design with privacy and compliance in mind. We’ll cover the implications of GDPR, HIPAA, and other frameworks when agents handle sensitive data.
 
-Understand how privacy laws like GDPR and HIPAA apply to AI systems. Learn best practices for handling sensitive data, obtaining consent, and architecting your agents to meet compliance requirements.
+* **Lesson 3**: Hosted Models vs APIs
+  Explore when to use hosted models versus API-based LLMs, and how to weigh tradeoffs like latency, control, compliance, reliability, and cost.
 
-### 4. Deployment Choices: Hosted Models vs APIs
-
-Weigh the tradeoffs between hosted models and API-based LLMs. This lesson helps you make informed deployment decisions based on control, latency, reliability, cost, and maintenance complexity.
-
-### 5. Case Studies: Real-World Development Blueprints
-
-Walk through high-level case studies that demonstrate how to approach the design and development of agentic AI systems from start to finish. Learn how to define scope, make key architectural decisions, plan for evaluation, and align your system with real-world needs — before writing a single line of code.
+- **Lesson 4**: Real-World Development Blueprints
+  Walk through real-world agentic AI development blueprints, starting from project planning through development and deployment.
 
 ---
 
