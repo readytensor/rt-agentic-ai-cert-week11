@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Monitoring & Observability](https://app.readytensor.ai/publications/z0GUbKAFMf9l)
+[➡️ Next - Data Privacy and Compliance in Agentic AI](https://app.readytensor.ai/publications/hQirE9Zfqpje)
 
 ---
 
@@ -288,5 +289,6 @@ In the next lesson, we’ll shift gears to explore **data privacy and compliance
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Monitoring and Observability Tools](https://app.readytensor.ai/publications/z0GUbKAFMf9l)
+[➡️ Next - Data Privacy and Compliance in Agentic AI](https://app.readytensor.ai/publications/hQirE9Zfqpje)
 
 ---
