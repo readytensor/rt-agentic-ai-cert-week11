@@ -33,8 +33,8 @@ This is a work-in-progress repository. We are actively adding code examples and 
 * **Lesson 2**: Data Privacy and Compliance
   Learn how to design with privacy and compliance in mind. We’ll cover the implications of GDPR, HIPAA, and other frameworks when agents handle sensitive data.
 
-* **Lesson 3**: Hosted Models vs APIs
-  Explore when to use hosted models versus API-based LLMs, and how to weigh tradeoffs like latency, control, compliance, reliability, and cost.
+* **Lesson 3**: Proprietary vs Open Weight LLMs
+  Explore when to use proprietary APIs versus open-weight models, and how to weigh tradeoffs like performance, control, compliance, and cost.
 
 - **Lesson 4**: Real-World Development Blueprints
   Walk through real-world agentic AI development blueprints, starting from project planning through development and deployment.
