@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Troubleshooting Failures in Agentic AI](https://app.readytensor.ai/publications/6qmc6P1CWNGY)
+[➡️ Next - Proprietary vs Open Weight LLMs](https://app.readytensor.ai/publications/Kev4TxRgmnUn)
 
 ---
 
@@ -400,6 +401,7 @@ Because in agentic AI, they often are — whether you meant them to be or not.
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Troubleshooting Failures in Agentic AI](https://app.readytensor.ai/publications/6qmc6P1CWNGY)
+[➡️ Next - Proprietary vs Open Weight LLMs](https://app.readytensor.ai/publications/Kev4TxRgmnUn)
 
 ---
 
