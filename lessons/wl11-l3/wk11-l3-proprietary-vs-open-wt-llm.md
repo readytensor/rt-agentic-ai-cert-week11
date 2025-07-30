@@ -151,19 +151,19 @@ The tradeoff isn’t just between OpenAI and LLaMA. It’s about what you’re o
 
 --DIVIDER--
 
- <h2> Speed of Development </h2>
+<h2> Speed of Development </h2>
  
- Let’s not pretend this doesn’t matter.
- 
- If you're racing to ship a demo, test an idea, or get your agent into users' hands fast, there's no faster path than calling a commercial API. No infrastructure. No hosting. No DevOps. You hit the endpoint and you're done.
- 
- Open-weight models — even if you use a managed service — add a bit of friction. You’ll need to pick a model, configure inference, and possibly deal with tokenization quirks or resource limits.
- 
- It’s not hard, but it’s not zero-effort either.
- 
- APIs let you move fast today.
- Open-weight models help you move freely tomorrow.
- 
+Let’s not pretend this doesn’t matter.
+
+If you're racing to ship a demo, test an idea, or get your agent into users' hands fast, there's no faster path than calling a commercial API. No infrastructure. No hosting. No DevOps. You hit the endpoint and you're done.
+
+Open-weight models — even if you use a managed service — add a bit of friction. You’ll need to pick a model, configure inference, and possibly deal with tokenization quirks or resource limits.
+
+And if you're hosting locally for development, you’ll need a beefy GPU-enabled machine — ideally with an A100, 4090, or Apple M-series chip — to run even quantized models smoothly. That’s not always available to every team.
+
+APIs let you move fast today.
+Open-weight models help you move freely tomorrow.
+
 ---
 
 --DIVIDER--
