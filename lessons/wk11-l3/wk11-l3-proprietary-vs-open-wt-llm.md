@@ -145,7 +145,7 @@ There’s no universally “correct” way to use LLMs — there’s only the ri
 
 The tradeoff isn’t just between OpenAI and LLaMA. It’s about what you’re optimizing for:
 
-![api-vs-open-weight-llms.jpeg](api-vs-open-weight-llms.jpeg)
+![api-vs-open-weight-llms-v3.jpeg](api-vs-open-weight-llms-v3.jpeg)
 
 ---
 
