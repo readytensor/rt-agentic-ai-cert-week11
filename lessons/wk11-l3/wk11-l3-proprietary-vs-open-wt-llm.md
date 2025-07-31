@@ -7,6 +7,7 @@
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Data Privacy and Compliance in Agentic AI](https://app.readytensor.ai/publications/hQirE9Zfqpje)
+[➡️ Next - Agentic System Architect's Blueprint](https://app.readytensor.ai/publications/DBt437eCRgoK)
 
 ---
 
@@ -145,7 +146,7 @@ There’s no universally “correct” way to use LLMs — there’s only the ri
 
 The tradeoff isn’t just between OpenAI and LLaMA. It’s about what you’re optimizing for:
 
-![api-vs-open-weight-llms-v3.jpeg](api-vs-open-weight-llms-v3.jpeg)
+![api-vs-open-weight-llms-v4.jpeg](api-vs-open-weight-llms-v4.jpeg)
 
 ---
 
@@ -483,5 +484,6 @@ Instead, understand the tradeoffs. Talk to your security and infra teams. Test a
 [🏠 Home - All Lessons](https://app.readytensor.ai/hubs/ready_tensor_certifications)
 
 [⬅️ Previous - Data Privacy and Compliance in Agentic AI](https://app.readytensor.ai/publications/hQirE9Zfqpje)
+[➡️ Next - Agentic System Architect's Blueprint](https://app.readytensor.ai/publications/DBt437eCRgoK)
 
 ---
